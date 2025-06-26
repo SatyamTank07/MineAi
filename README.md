@@ -1,5 +1,5 @@
-# MineAi
-- MineAi is an AI-powered chat application that enables users to upload PDF documents and interact with them through natural language queries. Leveraging FastAPI for the backend and React for the frontend, MineAi integrates with vector databases like Pinecone to provide intelligent document querying and summarization capabilities.
+# AetherAI 
+- AetherAI is an AI-powered chat application that enables users to upload PDF documents and interact with them through natural language queries. Leveraging FastAPI for the backend and React for the frontend, AetherAI integrates with vector databases like Pinecone to provide intelligent document querying and summarization capabilities.
 
 ## 🚀 Features
 - Document Upload: Users can upload PDF files, which are then stored in a vector database for efficient querying.
